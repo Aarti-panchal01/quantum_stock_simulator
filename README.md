@@ -2,8 +2,6 @@
 
 This Streamlit app simulates stock market behavior using classic randomness. It’s designed to mimic the volatile, unpredictable nature of stock prices — perfect for learning basic market dynamics and randomness-based simulations.
 
-> ⚠️ This version **does not use Qiskit or real quantum randomness** — it's built with Python’s `random` module for easier setup and portability.
-
 ---
 
 ## 🧠 Concepts Covered
