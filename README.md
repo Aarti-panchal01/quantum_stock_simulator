@@ -17,3 +17,10 @@ This Streamlit app simulates stock market behavior using classic randomness. Itâ
 - Matplotlib: For plotting the stock price graph.
 - Random: Pythonâ€™s built-in module to simulate market randomness.
 - NumPy: For numerical operations or enhancements (currently imported, can be useful later).
+
+
+Created by
+Aarti Panchal
+B.Tech AIML, PES University
+April 2025
+
